@@ -15,12 +15,12 @@ Documento|Download dos Arquivos
 
 ---
 
-* Esta apresentação é um Projeto Open Source, onde pode ser baixado e utilizado por todos, mas deve ser colocado as devidas autorias pela utilização desse Material
+* Esta apresentação é um Projeto Open Source, onde pode ser baixado e utilizado por todos, mas deve ser colocado as devidas **autorias pela utilização desse Material**
 
 ---
 
-* Caso deseje entrar em contato sobre as informações contidas nesse Repositório abra uma [**Issue**](https://github.com/F4NT0/ages-online-git/issueshttps://github.com/F4NT0/ages-online-git/issues) e eu irei resolve-lo ou entrar em contato
+* Caso deseje entrar em contato sobre as informações contidas nesse Repositório abra uma [**Issue**](https://github.com/F4NT0/ages-online-git/issues) e eu irei resolve-lo ou entrar em contato
 
 ---
 
-* Para mais Dúvidas, acesse o Slack Oficial de Dúvidas: **fanto-help.slack.com**
+* Para mais Dúvidas, acesse o Slack Oficial de Dúvidas: [**fanto-help.slack.com**](https://join.slack.com/t/fanto-help/shared_invite/zt-gceltfip-jzUbytloJxTsOGW~QvFdkg)
