@@ -24,3 +24,7 @@ Documento|Download dos Arquivos
 ---
 
 * Para mais Dúvidas, acesse o Slack Oficial de Dúvidas: [**fanto-help.slack.com**](https://join.slack.com/t/fanto-help/shared_invite/zt-gceltfip-jzUbytloJxTsOGW~QvFdkg)
+
+--- 
+
+* [Vídeo da Apresentação no Youtube](https://youtu.be/CLqD7tsdOCM)
